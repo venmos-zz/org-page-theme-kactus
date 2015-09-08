@@ -1,5 +1,5 @@
 
-m https://github.com/nickbalestra/kactus
+from https://github.com/nickbalestra/kactus
 
 delete your index.org
 
