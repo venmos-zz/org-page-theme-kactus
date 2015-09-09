@@ -1,10 +1,13 @@
 <div>
+    <section id="wrapper">
   <div class="post">
-    <h1>Tag Index</h1>
+    <h1>Tags</h1>
     <ul class="org-ul">
       {{#tags}}
         <li><a href="{{tag-uri}}">{{tag-name}} ({{count}})</a></li>
+        <br />
       {{/tags}}
     </ul>
   </div>
+  </section>
 </div>
